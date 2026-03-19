@@ -26,17 +26,17 @@ Description: Base de desktop do Otis
  
 
 Package: otis-installer
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
 Maintainer: Jefferson Silva <seuemail@exemplo.com>
-Depends: libkf5coreaddons5, libkf5i18n5, libkf5kio5, qtbase5, qttools5
+Depends: kded6, kio6, libkf6parts6, qml6-module-org-kde-kirigami 
 Priority: optional
 Section: utils
-Filename: pool/main/o/otis-installer/otis-installer_1.0.1_amd64.deb
-Size: 19315074
-SHA256: 1cd9a700b3a773d1225c62e980af995ffac01f5878ea76872c86b792dab6ed62
-SHA1: 63be4543a4aa8383270249012957a964903673d0
-MD5sum: 3f0f342a03e7138e50c2c924f707f32d
+Filename: pool/main/o/otis-installer/otis-installer_1.0.2_amd64.deb
+Size: 19315078
+SHA256: b98227fa1faf5a510bb9a37ddb77d289b770cbbed735ae67cdf19d5f1d9d7202
+SHA1: b87854e371d82e6a934ae16f7326c0c0773964e9
+MD5sum: baba6e76ac040975886e41841f7315c7
 Description: Instalador personalizado Otis baseado em Calamares
  Custom Calamares installer for Otis project.
 
