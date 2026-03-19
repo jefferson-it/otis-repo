@@ -1,0 +1,68 @@
+Package: desktop-base-otis
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
+Depends: otis-theme,
+         otis-wallpaper,
+         gnome-shell-extensions,
+         gnome-shell-extension-desktop-icons-ng,
+         gnome-shell-extension-user-theme,
+         gnome-shell-extension-dash-to-panel,
+         gnome-text-editor,
+         papirus-icon-theme,
+         flatpak,
+         gnome-software-plugin-flatpak,
+         ptyxis
+Filename: ./desktop-base-otis.deb
+Size: 1516
+MD5sum: b58c97dd831bcc77658f579821accc8b
+SHA1: 4377a22eba90f1a436f5ca6bd719fb4343468436
+SHA256: 6e37030dbe8fcce47fbcc56bf2f72b04bd86714c2561bce38079f08bd35c624f
+Section: utils
+Priority: optional
+Description: Base de desktop do Otis
+ Base de desktop completa para o Otis, incluindo temas,
+ wallpapers e extensões do GNOME.
+
+Package: otis-installer
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jefferson Silva <seuemail@exemplo.com>
+Depends: libkf5coreaddons5, libkf5i18n5, libkf5kio5, qtbase5, qttools5
+Filename: ./otis-installer.deb
+Size: 19315074
+MD5sum: 255c631acfc3df7b1be75cb5343ed2e5
+SHA1: 9375a647f16f128b1613bade552b9002a913341a
+SHA256: fbda50698c0aa2e5bfd4b189f41229736d8d91178097ff42750dfab41cb7863c
+Section: utils
+Priority: optional
+Description: Instalador personalizado Otis baseado em Calamares
+ Custom Calamares installer for Otis project.
+
+Package: otis-theme
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
+Depends: plymouth
+Filename: ./otis-themes.deb
+Size: 4640952
+MD5sum: d063f52fbb10fc0df2a7512ed68909ef
+SHA1: 9ea34228f93f278c65fa47ad0211c6245fbdd40d
+SHA256: 885c8be5a7329310df14abee2fdc8790434e41aff311f8d6da237531772ce38c
+Section: utils
+Priority: optional
+Description: Tema do Otis (GTK + Plymouth)
+
+Package: otis-wallpaper
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
+Filename: ./otis-wallpaper.deb
+Size: 5895524
+MD5sum: bc92d907e8391b14a6be252f51a6937d
+SHA1: 6e289e4018ef5afc9501eadd9856a8a7396496a6
+SHA256: 5629fd1fa5a2e218fed0f8cda016e88c2cdfcd2171a0c7ca2d0b45223990f7e4
+Section: utils
+Priority: optional
+Description: Wallpaper do Otis
+

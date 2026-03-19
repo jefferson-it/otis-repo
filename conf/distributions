@@ -1,0 +1,6 @@
+Origin: Otis
+Label: Otis
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositório do Otis
