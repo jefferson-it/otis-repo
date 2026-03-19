@@ -1,5 +1,5 @@
 Package: desktop-base-otis
-Version: 1.0.1
+Version: 1.0.4
 Architecture: amd64
 Depends: otis-theme,
          otis-wallpaper,
@@ -15,55 +15,54 @@ Depends: otis-theme,
 Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/d/desktop-base-otis/desktop-base-otis_1.0.1_amd64.deb
-Size: 1516
-SHA256: 08269026fd812057538bcf5e066c247194f62602e81a046332e9c4e318e5f7be
-SHA1: 40cf1319a081f2435c506c731909fec4fd8ea242
-MD5sum: 6ad55289dcdfc53749b8eba4af89897d
+Filename: pool/main/d/desktop-base-otis/desktop-base-otis_1.0.4_amd64.deb
+Size: 1518
+SHA256: ae52ce7421a2d2c1451737f2a7050978a5e3c3a4cbeb4cb40e337c22f431af19
+SHA1: 9c0e78ba32b99010f52fd7d6c470ae70fbb5277f
+MD5sum: 4213d0efed79065646910698f4ef90ca
 Description: Base de desktop do Otis
  Base de desktop completa para o Otis, incluindo temas,
  wallpapers e extensões do GNOME.
  
 
 Package: otis-installer
-Version: 1.0.3
+Version: 1.0.4
 Architecture: amd64
 Maintainer: Jefferson Silva <seuemail@exemplo.com>
-Depends: libkf5coreaddons5, libkf5i18n5, libkf5kio5, qtbase5, qttools5
 Priority: optional
 Section: utils
-Filename: pool/main/o/otis-installer/otis-installer_1.0.3_amd64.deb
-Size: 19314904
-SHA256: 9149e3977d2dfd2344d578a6256502cd369f535a98a1ce7894c7967faa228f4b
-SHA1: b9b65e496a569f0165bdfd01097cdeff148eef4a
-MD5sum: e1aa08a4987a7a69efb22b475f57187b
+Filename: pool/main/o/otis-installer/otis-installer_1.0.4_amd64.deb
+Size: 19314864
+SHA256: 7e3a6d07be7047cc47601055f8fd346026512a7defe32f877a6fa84364f5ea28
+SHA1: 8e789337bff231426324d8b382f9485ef1c2b956
+MD5sum: 648db666ce465efa7d7e49e5c3a8ddb1
 Description: Instalador personalizado Otis baseado em Calamares
  Custom Calamares installer for Otis project.
 
 Package: otis-theme
-Version: 1.0.1
+Version: 1.0.4
 Architecture: amd64
 Depends: plymouth
 Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/o/otis-theme/otis-theme_1.0.1_amd64.deb
-Size: 4640944
-SHA256: 44d2863a7ea57c64c07c85d61aad27456fd46b979d7f05f668bc74cdecfa1982
-SHA1: ebb9489db26d9a0c1c76ade8a3f1ac3ea1437a28
-MD5sum: f721e280d45de672cd31d2d85b1b323e
+Filename: pool/main/o/otis-theme/otis-theme_1.0.4_amd64.deb
+Size: 4640942
+SHA256: 513d1467139e9bc22947237c6c77d73dd4612722f539759f8d87211bd73272bc
+SHA1: e1742bd4529753504f6329d0fba3f613a90c08e4
+MD5sum: 3cc719e995afaa2c2e413e594b9cb2b8
 Description: Tema do Otis (GTK + Plymouth)
 
 Package: otis-wallpaper
-Version: 1.0.1
+Version: 1.0.4
 Architecture: amd64 
 Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/o/otis-wallpaper/otis-wallpaper_1.0.1_amd64.deb
-Size: 5895524
-SHA256: f6f1f6b26d366c5e9a70da834a59a4a61cc5cb8bbdddcdc84f8064494d1f2195
-SHA1: eb7489370e627d54882c2a3234422b2b10fefcd6
-MD5sum: 91590efe0e5d01424536d0a17dfdd13d
+Filename: pool/main/o/otis-wallpaper/otis-wallpaper_1.0.4_amd64.deb
+Size: 5895526
+SHA256: 6d1c0d87be3f0871053bbc9118a68bec9498640cfd1f873ad371bab759e1b20b
+SHA1: 9a4a4ecd8b5f91e5715eb790b5d289b8d9586ac9
+MD5sum: fcc12f27f2f7575ddcd938106740c4b5
 Description: Wallpaper do Otis
 
