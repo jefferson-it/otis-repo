@@ -1,19 +1,19 @@
 Origin: Otis
 Label: Otis
 Codename: stable
-Date: Thu, 19 Mar 2026 15:07:05 UTC
+Date: Thu, 19 Mar 2026 16:37:00 UTC
 Architectures: amd64
 Components: main
 Description: Repositório do Otis
 MD5Sum:
- ca3b2fbd7af990a8bec96187f7363819 1774 main/binary-amd64/Packages
- 712173615d0944f7271a8ec1fa338379 787 main/binary-amd64/Packages.gz
+ b13d03d8254c5da2486fb23884a6b382 1791 main/binary-amd64/Packages
+ 5c984e3962e2c9cef7f881c6cf48a696 799 main/binary-amd64/Packages.gz
  a9fdc1cc031017c9b4658e1880acae3d 95 main/binary-amd64/Release
 SHA1:
- 75ee2065afcee7cceb3f6cb003454ab968326354 1774 main/binary-amd64/Packages
- e497ab0430c98af33f4907a1035896bcafb54c83 787 main/binary-amd64/Packages.gz
+ d3d46edb41b1e193859132104d526e991f6b6a77 1791 main/binary-amd64/Packages
+ e5b9b3214a8b246a30028f8896825ee5daea4036 799 main/binary-amd64/Packages.gz
  83572b50c01208f603aff7d6dfb3592f74808725 95 main/binary-amd64/Release
 SHA256:
- c6501c6942cb2d61e520e8fa9615c981a58b541e5eede1d6a0d103f4d3a68e95 1774 main/binary-amd64/Packages
- a2577a4123aa63f3164e08aa26713a11d049d38b07824cd7d0daaa96f3b8df38 787 main/binary-amd64/Packages.gz
+ 903c68bae726710bd10ec65cde8bd8a172d13633aa41667adb97679780647613 1791 main/binary-amd64/Packages
+ 567d228e306f05ad1b48a10b99492f6eada753fe30c6b108a253cb5ad4c6621c 799 main/binary-amd64/Packages.gz
  0139782b617d89eba449fd17ecbbf5f3a92ef7f2f84a332727bc4388b32b0cc6 95 main/binary-amd64/Release
