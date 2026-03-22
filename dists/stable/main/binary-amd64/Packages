@@ -1,5 +1,5 @@
 Package: desktop-base-otis
-Version: 1.0.7
+Version: 1.0.8
 Architecture: amd64
 Depends: otis-theme,
          otis-wallpaper,
@@ -15,11 +15,11 @@ Depends: otis-theme,
 Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/d/desktop-base-otis/desktop-base-otis_1.0.7_amd64.deb
-Size: 1510
-SHA256: 430c233bf3340540d426dbdccc7872ef73beec59e5e6c72776e18b3a2bd74262
-SHA1: 392fe580b2c36fd36bbae2ecd91c08d94fb26c37
-MD5sum: 8702ad170e5af537293bcac911f94256
+Filename: pool/main/d/desktop-base-otis/desktop-base-otis_1.0.8_amd64.deb
+Size: 1536
+SHA256: 98a78da9f965192435874d68a20d59947e68402d2b8df7035e73793b07e11dad
+SHA1: 8d5c08557f91f2f9a0dd67aa9334e53388535886
+MD5sum: 963162978b2e4e735593868188ac427a
 Description: Base de desktop do Otis
  Base de desktop completa para o Otis, incluindo temas,
  wallpapers e extensões do GNOME.
