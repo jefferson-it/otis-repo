@@ -26,17 +26,17 @@ Description: Base de desktop do Otis
  
 
 Package: otis-theme
-Version: 1.0.8
+Version: 2.0.0
 Architecture: amd64
 Depends: plymouth, plymouth-themes
 Maintainer: Jefferson Silva de Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/o/otis-theme/otis-theme_1.0.8_amd64.deb
-Size: 4640880
-SHA256: 2ea5d6afa64a74c9245c8d027f2b797ffd2222b35d87fde09efb6f98df0715e7
-SHA1: 89eb1a231c1c7cb7777e76496dc95ab0e2e4b957
-MD5sum: 6a6ddfb47c813c4dd7e501dedce99e25
+Filename: pool/main/o/otis-theme/otis-theme_2.0.0_amd64.deb
+Size: 4660192
+SHA256: a2fde8fe55778577d88605166797d07fe945f67a98ae4860ab51ecf4bb6cac7a
+SHA1: 3e800e9e6ef94be09982e22f0ac6366d9f253196
+MD5sum: 00105b0e1bb7a734546ed60d4b801d5f
 Description: Tema do Otis (GTK + Plymouth)
 
 Package: otis-wallpaper
